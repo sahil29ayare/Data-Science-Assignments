@@ -1,1 +1,1 @@
-# Data-Science-Assignments
+Welcome to the Data Science Assignments repository! This repository contains a collection of assignments and projects related to data science. Each assignment is designed to help you practice and develop your skills in various aspects of data science, including data cleaning, data visualization, statistical analysis, machine learning, and more.
